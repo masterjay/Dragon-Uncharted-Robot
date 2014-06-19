@@ -24,7 +24,7 @@ package
 		private const HOST:String = "ariesyxyx.byethost11.com";
 //		private const HOST:String = "localhost:8888";
 		
-		private var _timeId:int;
+		private var _timeId:int; 
 		
 		
 		private var d:String = "sdfsadfsdfsd"
