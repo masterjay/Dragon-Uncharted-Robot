@@ -12,7 +12,7 @@ package
 	
 	public class DragonUncharted extends Sprite
 	{
-		private var _txt1:TextField;
+		private var _txt1:TextField; 
 		private var _txt2:TextField;
 		private var _out:TextField;
 		
